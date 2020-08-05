@@ -1,0 +1,19 @@
+h1.intro {
+  color: blueviolet
+  font-size: 20px;
+  font-family: verdana;
+}
+p.intro {
+  font-size: 15px;
+  font-family: courier;
+}
+img.intro {
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
+  <img src="img/Weaving.jpg" alt="Underwater weaving">
+}
