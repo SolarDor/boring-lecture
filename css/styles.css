@@ -1,17 +1,19 @@
 h1.intro {
-  color: blueviolet
+  color: blueviolet;
+  font-size: 20px;
+  font-family: verdana;
+}
+h2.intro {
   font-size: 20px;
   font-family: verdana;
 }
 p.intro {
-  font-size: 15px;
+  font-size: 20px;
   font-family: courier;
 }
 img.intro {
-  img {
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
-    width: 150px;
-  }
+    width: 350px;
 }
