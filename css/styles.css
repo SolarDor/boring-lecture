@@ -1,15 +1,10 @@
-h1.intro {
+.intro {
   color: blueviolet;
   font-size: 20px;
   font-family: verdana;
 }
-h2.intro {
-  font-size: 20px;
-  font-family: verdana;
-}
-p.intro {
-  font-size: 20px;
-  font-family: courier;
+.outro {
+  font-style: italic bold;
 }
 img.intro {
     border: 1px solid #ddd;
