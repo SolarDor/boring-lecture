@@ -1,12 +1,12 @@
 # _Boring Lecture_
 
-#### Boring Lecture with CSS Stylings, 08.05.2020
+#### Boring Lecture with CSS Stylings, 08.11.2020
 
-#### By Cameron Will Michael Watts
+#### By Cameron Will Garrett D Brown
 
 ## Description
 
-* Utilize new CSS stylings to customize the text and photos on a page.
+* Utilize JQuery to Add a button for changing background.
 
 ## Setup
 
@@ -17,6 +17,7 @@
 
 * HTML
 * CSS
+* JQeury
 
 ## GitHub Link
 
@@ -24,6 +25,6 @@
 
 ### Legal
 
-* Copyright (c) 2020 Cameron Will <cellardoorsolar@aol.com>, Michael Watts <wattsjmichael@gmail.com>
+* Copyright (c) 2020 Cameron Will <cellardoorsolar@aol.com>, Garrett D Brown <gman9mm@live.com>
 
 * This software is licensed under the MIT license.

@@ -1,14 +1,25 @@
 .intro {
-  color: blueviolet;
   font-size: 20px;
   font-family: verdana;
 }
+
 .outro {
   font-style: italic bold;
 }
+
 img.intro {
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     width: 350px;
+}
+
+.day-background {
+  background-color: white;
+  color: black;
+}
+
+.night-background {
+  background-color: black;
+  color: white;
 }
